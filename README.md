@@ -1,4 +1,6 @@
 # smiley-face-image
-Simple smiley face constructed via the python programming language
 
-To kick-start this github profile, here is the code for a smiley face via an import file
+Smiley Face Image walkthrough via Turtles
+
+
+Through the use of turtles in Python, we explore the idea of creating images within our IDE via the python programming language.
