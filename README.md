@@ -1,4 +1,4 @@
-#Emoji Image (beginners code)
+Emoji Image (beginners code)
 
 Smiley Face Image walkthrough via Turtles
 
